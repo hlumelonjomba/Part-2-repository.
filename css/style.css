@@ -8,31 +8,19 @@ background-color: #f4f4f4;
 /*Navigation Limks*/
 a{
     text-decoration: none;
-    color: white;
-<<<<<<< HEAD
+    color: rgb(78, 17, 17);
     background-color: grey;
-=======
-    background-color: rgb(49, 19, 19);
->>>>>>> bdee044e2796789d4a56434eb983c61662060309
     padding: 10px 15px;
     margin: 5px;
     display: inline-block;
     border-radius:  5px;
 }
 a:hover{
-<<<<<<< HEAD
     background-color: green;
 } 
 /*Main Heading h1*/
 h1, h2{
     color: gray;
-=======
-    background-color: rgb(197, 5, 5);
-} 
-/*Main Heading h1*/
-h1, h2{
-    color: rgb(54, 10, 10);
->>>>>>> bdee044e2796789d4a56434eb983c61662060309
     text-align: center;
     text-decoration: underline overline;
     margin: 20px;
@@ -50,11 +38,7 @@ p{
     margin: 30px auto;
 border-radius: 10px;
 overflow: hidden; /*keeps rounded corners clean*/
-<<<<<<< HEAD
 box-shadow: 0 0 10px rgba(0,0,0,0.1);
-=======
-box-shadow: 0 0 10px rgba(58, 15, 15, 0.1);
->>>>>>> bdee044e2796789d4a56434eb983c61662060309
 }
 /*Map iframe*/
 .map-container iframe{
